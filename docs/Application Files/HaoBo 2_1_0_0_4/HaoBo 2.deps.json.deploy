@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "HaoBo 2 2/1.0.0": {
+      "HaoBo 2/1.0.0": {
         "dependencies": {
           "FluentWPF": "0.10.2",
           "QuestPDF": "2025.7.0",
@@ -14,7 +14,7 @@
           "System.Drawing.Common": "9.0.7"
         },
         "runtime": {
-          "HaoBo 2 2.dll": {}
+          "HaoBo 2.dll": {}
         }
       },
       "EntityFramework/6.4.4": {
@@ -386,7 +386,7 @@
     }
   },
   "libraries": {
-    "HaoBo 2 2/1.0.0": {
+    "HaoBo 2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
