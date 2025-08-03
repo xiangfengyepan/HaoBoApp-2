@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="HaoBo 2.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="HaoBo 2 2.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -80,7 +80,7 @@
       <dsig:DigestValue>QbLI+2RQuvs2DkjBfvyXDZ14sSuz0rFfKu7tm9xGDl8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo 2.deps.json" size="22007">
+  <file name="HaoBo 2 2.deps.json" size="22007">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -89,7 +89,7 @@
       <dsig:DigestValue>gBsTX1bE49RUAy6kKx+TJuXvtS89cYNIUt5un2Y+MUw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo 2.dll" size="238592">
+  <file name="HaoBo 2 2.dll" size="238592">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -98,7 +98,7 @@
       <dsig:DigestValue>o82kHsFu8dH/ripg0OJ8ldyJiAnAXTf0mMbq/AOcMXs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo 2.exe" size="149504">
+  <file name="HaoBo 2 2.exe" size="149504">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -107,7 +107,7 @@
       <dsig:DigestValue>D0mwJTQX3a2j0KSucyEjph0LNECcV/iuu7NbZeoIjsk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HaoBo 2.runtimeconfig.json" size="515">
+  <file name="HaoBo 2 2.runtimeconfig.json" size="515">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
